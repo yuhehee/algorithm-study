@@ -1,4 +1,4 @@
-# algorithm-study
+# Algorithm-study
 Solving algorithm problems with Python to prepare for coding tests 🧩
 
 ## Environment
