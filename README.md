@@ -5,10 +5,6 @@ Solving algorithm problems with Python to prepare for coding tests 🧩
 - **Language:** Python
 - **Platforms:** Programmers, LeetCode
 
-## Progress
-- **Started:** 2026-07-01
-- **Total solved:** 0
-
 ## Index by Topic
 
 | Topic | Description |
